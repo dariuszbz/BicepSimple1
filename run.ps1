@@ -4,7 +4,7 @@
 
 ### UNCOMMENT two lines below before first time run, and once sucesfull comment backagain. 
 #az login
-#az account set --subscription "823c2639-2f49-4edc-8c29-c78497ab151a"
+#az account set --subscription "xxxxx"
 
 $variables = @{}
 # # # Variables goes to azure devops
